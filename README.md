@@ -15,7 +15,3 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,html,ipfs,js,kali,linux,mint,matlab,mongodb,mysql,netlify,nextjs,nodejs,notion,obsidian,opencv,py,pytorch,react,sklearn,selenium,solidity,tailwind,tensorflow,threejs,ts,ubuntu" />
   </a>
 </p>
-  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batu0labs)
-
