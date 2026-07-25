@@ -48,7 +48,7 @@
 
 
 # 
-![Code palace Official Github](https://img.shields.io/badge/Code%20Palace-Official-Success
+![batu0labs Official Github](https://img.shields.io/badge/Batu0Labs-Official-Success
 )
 
 
