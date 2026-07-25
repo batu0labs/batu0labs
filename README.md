@@ -14,7 +14,7 @@
 - Web3
 - System Design
 
-#Tech Stack
+# Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
