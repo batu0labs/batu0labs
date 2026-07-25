@@ -10,19 +10,45 @@
 
 - Full Stack Development
 - AI & Automation
-- Smart Contract Development
-- Web3
+- Web3 & Smart Contract Development
 - System Design
 
-# Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,cpp,css,docker,dotnet,express,figma,git,html,ipfs,js,kali,linux,mint,matlab,mongodb,mysql,netlify,nextjs,nodejs,notion,obsidian,opencv,py,pytorch,react,sklearn,selenium,solidity,tailwind,tensorflow,threejs,ts,ubuntu" />
-  </a>
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,py,html,css,solidity" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" />
+</p>
+
+### AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,mint,kali,selenium,figma,netlify,notion,obsidian,matlab" />
+</p>
+
+### Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
 </p>
 
 
 # 
 ![Code palace Official Github](https://img.shields.io/badge/Code%20Palace-Official-Success
 )
+
+
