@@ -46,6 +46,14 @@
   <img src="https://skillicons.dev/icons?i=solidity,ipfs" />
 </p>
 
+# 
+
+
+<p align="center">
+  <img src="taurus-v2.png" alt="GitHub Footer">
+</p>
+
+
 
 # 
 ![batu0labs Official Github](https://img.shields.io/badge/Batu0Labs-Official-Success
