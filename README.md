@@ -14,6 +14,8 @@
 - System Design
 
 
+![](https://komarev.com/ghpvc/?username=batu0labs)
+
 ## 🛠️ Tech Stack
 
 ### Languages
