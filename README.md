@@ -58,8 +58,7 @@
 
 
 # 
-![batu0labs Official Github](https://img.shields.io/badge/Batu0Labs-Official-Success
-)
+![batu0labs Official Github](https://img.shields.io/badge/Batu0Labs-Official-Success)
 
 #
 <picture>
