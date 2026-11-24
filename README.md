@@ -10,7 +10,7 @@
 
 - Full Stack Development
 - AI & Automation
-- Web3 & Smart Contract Development
+- Cyber Security Operations
 - System Design
 
 
@@ -30,7 +30,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql" />
 </p>
 
 ### AI / Machine Learning
@@ -40,7 +40,7 @@
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,mint,kali,selenium,figma,netlify,notion,obsidian,matlab" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,ubuntu,mint,kali,selenium,figma,netlify,notion,obsidian" />
 </p>
 
 ### Web3
